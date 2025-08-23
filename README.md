@@ -28,7 +28,7 @@ Sentiment-Analysis/
 
 Clone the repository and install dependencies:
 
-git clone https://github.com/your-username/Sentiment-Analysis.git
+git clone https://github.com/MO7AMEDNABIL/Sentiment-Analysis.git
 cd Sentiment-Analysis
 pip install -r requirements.txt
 
@@ -65,4 +65,5 @@ Matplotlib / Seaborn
 🤝 Contribution
 
 Feel free to fork this repo, submit pull requests, or open issues to improve the project.
+
 
